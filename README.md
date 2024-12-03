@@ -13,7 +13,7 @@ Predicting the evolutionarily selected codons of human protein-coding genes, usi
 
      d. Clustering proteins with CD-HIT + Grouping same-gene protein sequences
 
-     e. Finding nearest trainset neighbours (to CD-HIT representatives) with BLASTP
+     e. Finding nearest trainset neighbours (to testset CD-HIT representatives) with BLASTP
    - Models:
 
      a. Baseline models (frequency based)
